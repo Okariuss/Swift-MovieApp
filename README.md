@@ -1,5 +1,10 @@
 # MovieApp
 
+<p align="center">
+  <img src="./Public/Main_Screen.png" alt="Main Screen" width="400" />
+  <img src="./Public/Details_Screen.png" alt="Details Screen" width="400" />
+</p>
+
 MovieApp is an iOS application that allows users to explore and discover trending movies. It leverages the TMDb (The Movie Database) API to fetch movie data and presents it in a visually appealing and user-friendly interface.
 
 ## Features
